@@ -3,8 +3,8 @@
 ## What is Rojo?
 Rojo is a tool that allows you to move lua files from your system into your Roblox game (mainly used for scripting).
 
-## Okay.. [but why should I use it?](<https://rojo.space/docs/why-rojo/>)
-With the power described above, you can:
+## Okay.. but why should I use it?
+[Here's why you should use it:](<https://rojo.space/docs/why-rojo/>)
 - code with editors outside of roblox (Visual Studio Code, Atom, ...)
 - this also means you can code offline - something you can't on roblox studio!
 - what this also means is that a crash won't make you lose your work because a code editor can hardly crash
